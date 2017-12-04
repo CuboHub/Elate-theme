@@ -4,5 +4,5 @@ readme: README.md
 language: HTML5
 description: Elate Theme for CuboHub
 links:
-  - cubohub: https://CuboHub.github.io
-  - github: https://github.com/CuboHub/Elate-theme
+  CuboHub: https://CuboHub.github.io
+  Github: https://github.com/CuboHub/Elate-theme
