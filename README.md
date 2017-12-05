@@ -2,7 +2,7 @@
 Elate Theme for CuboHub
 
 # Preview
-SOON
+https://cubohub.github.io/Elate-theme/
 
 # About
 Title      : Elate
