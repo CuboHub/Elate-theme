@@ -6,6 +6,7 @@ https://cubohub.github.io/Elate-theme/
 
 # About
 Title      : Elate
+
 Maintainer : Tiago Danin
 
 # Original
